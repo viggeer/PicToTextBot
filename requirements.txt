@@ -1,0 +1,5 @@
+telebot~=0.0.5
+pyTelegramBotAPI~=4.26.0
+pytesseract~=0.3.13
+pillow~=11.2.1
+deep-translator~=1.11.4
